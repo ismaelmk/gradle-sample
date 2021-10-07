@@ -8,3 +8,4 @@
  */
 
 rootProject.name = 'gradle-sample'
+prop1= '1'
